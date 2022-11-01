@@ -15,9 +15,11 @@ export default function Home() {
         <p className="description">
           Last updated: 
         </p>
-    
-    <iframe src="/Users/lochlanhendrix/Desktop/Scores.txt" width="500" height="300" frameBorder="0">
-
+<p>    
+fetch('Scores.txt')
+  .then(response => response.text())
+  .then(text => console.log(text))
+  </p>
     
       </main>
 
