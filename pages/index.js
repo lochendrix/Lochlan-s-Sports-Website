@@ -24,6 +24,7 @@ export default function Home() {
     </p>
   <div>
     <embed src="Scores.txt">
+    <p>Test</p>
     </div>
       </main>
 
