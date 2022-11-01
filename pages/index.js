@@ -22,7 +22,9 @@ export default function Home() {
     <p>
     This will show if its updating
     </p>
-  
+  <div>
+    <embed src="Scores.txt">
+    </div>
       </main>
 
       <Footer />
