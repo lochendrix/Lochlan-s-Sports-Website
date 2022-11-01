@@ -15,12 +15,13 @@ export default function Home() {
         <p className="description">
           Last updated: 
         </p>
-<p>    
-fetch('Scores.txt')
-  .then(response => response.text())
-  .then(text => console.log(text))
-  </p>
+<p>
+    <object width="300" height="300" type="text/plain" data="Scores.txt" border="0" >
+</object>
     
+    
+    </p>
+  
       </main>
 
       <Footer />
