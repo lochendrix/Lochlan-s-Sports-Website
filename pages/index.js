@@ -20,7 +20,7 @@ export default function Home() {
 </object>
     </p>
     <p>
-    This will show if its updating
+    This will show if its updating correctly
     </p>
   <div>
     <embed src="Scores.txt">
