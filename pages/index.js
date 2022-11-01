@@ -18,8 +18,9 @@ export default function Home() {
 <p>
     <object width="300" height="300" type="text/plain" data="Scores.txt" border="0" >
 </object>
-    
-    
+    </p>
+    <p>
+    This will show if its updating
     </p>
   
       </main>
