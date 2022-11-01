@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
     
-      embed<src="Scores.txt">Score</embed>
+      <embed src="Scores.txt">Score</embed>
     <p>Test</p>
    
       </main>
