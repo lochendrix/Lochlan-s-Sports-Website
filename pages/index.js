@@ -15,17 +15,13 @@ export default function Home() {
         <p className="description">
           Last updated: 
         </p>
-<p>
-    <object width="300" height="300" type="text/plain" data="Scores.txt" border="0" >
-</object>
-    </p>
-    <p>
-    This will show if its updating correctly
-    </p>
-  <div>
+
+
     <embed src="Scores.txt"> </embed>
     <p>Test</p>
-    </div>
+    
+    
+    
       </main>
 
       <Footer />
