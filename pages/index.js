@@ -16,10 +16,8 @@ export default function Home() {
           Last updated: 
         </p>
     
-    <object data="/path_to_text_file/text.txt" type="text/plain"
-width="500" style="height: 300px">
-<a href="/Users/lochlanhendrix/Desktop/Scores.txt">No Support?</a>
-</object>
+    <iframe src="/Users/lochlanhendrix/Desktop/Scores.txt" width="500" height="300" frameBorder="0">
+
     
       </main>
 
