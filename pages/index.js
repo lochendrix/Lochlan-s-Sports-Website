@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Today's Scores" />
         <p className="description">
-          Seeing if everythins is working<code>pages/index.js</code>
+          Last updated: 
         </p>
       </main>
 
