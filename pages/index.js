@@ -1,30 +1,12 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+<!DOCTYPE html>
+  <html>
+  
+  <head>
+<title>Lochlan's Sports Teams</title>
+</head>
 
-export default function Home() {
-  return (
-    <div className="container">
-      <Head>
-        <title>Lochlan's Sports Dashboard!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+<body>
+  <h1>Aston Villa</h1>
+</body>
+</html>
 
-      <main>
-        <Header title="Today's Scores" />
-        <p className="description">
-          Last updated: 
-        </p>
-
-
-    <embed src="Scores.txt"> </embed>
-    <p>Test</p>
-    
-    
-    
-      </main>
-
-      <Footer />
-    </div>
-  )
-}
