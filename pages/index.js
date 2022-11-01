@@ -17,6 +17,7 @@ export default function Home() {
         </p>
     
       embed<src="Scores.txt">Score</embed>
+    <p>Test</p>
    
       </main>
 
