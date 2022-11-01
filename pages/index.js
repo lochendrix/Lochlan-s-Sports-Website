@@ -23,7 +23,7 @@ export default function Home() {
     This will show if its updating correctly
     </p>
   <div>
-    <embed src="Scores.txt">
+    <embed src="Scores.txt"> </embed>
     <p>Test</p>
     </div>
       </main>
