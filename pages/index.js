@@ -19,9 +19,12 @@ export default function Home() {
       <embed src="Scores.txt">Score</embed>
     <p>Test</p>
    
+    
+    <embed src='@pages/Scores.txt'>Cum</embed>
       </main>
 
      
     </div>
+    <Footer />
   )
 }
